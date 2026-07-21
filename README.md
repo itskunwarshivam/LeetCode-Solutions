@@ -89,6 +89,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/itskunwarshivam/LeetCode-Solutions/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/itskunwarshivam/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -101,4 +102,8 @@
 | ------- |
 | [1260-shift-2d-grid](https://github.com/itskunwarshivam/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itskunwarshivam/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## String
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/itskunwarshivam/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
